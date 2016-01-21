@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Single Frame Fragment</string>
+    <string name="landscape_message">Landscape message</string>
+    <string name="portrait_message">Portrait message</string>
+</resources>
