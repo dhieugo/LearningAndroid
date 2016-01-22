@@ -10,11 +10,12 @@ import android.view.ViewGroup;
 /**
  * Created by Hieu on 1/21/16.
  */
-public class LMFragment extends Fragment {
+public class PMFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.lm_fragment, container, false);
+
+        return inflater.inflate(R.layout.pm_fragment, container, false);
     }
 }
